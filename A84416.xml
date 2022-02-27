@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earle of Carberyes pedegree: with their titles, and honourable endowments. Also, a copie of a letter, with the charge and article, sent from the Committee of Pembroke, to the Committee for Compositions at Gold-Smiths hall, against the said Earl, and other grand delinquents of the county of Carmarthen.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84416</idno>
+            <idno type="STC">Wing E71</idno>
+            <idno type="STC">Thomason E355_29</idno>
+            <idno type="STC">ESTC R201128</idno>
+            <idno type="EEBO-CITATION">99861682</idno>
+            <idno type="PROQUEST">99861682</idno>
+            <idno type="VID">159909</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84416)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159909)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E355[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earle of Carberyes pedegree: with their titles, and honourable endowments. Also, a copie of a letter, with the charge and article, sent from the Committee of Pembroke, to the Committee for Compositions at Gold-Smiths hall, against the said Earl, and other grand delinquents of the county of Carmarthen.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Octob: 3 London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Carbery, Richard Vaughan, --  Earl of, 1600?-1686 --  Early works to 1800.</term>
+               <term>Scotland. --  Army --  History --  Early works to 1800.</term>
+               <term>Attachment and garnishment --  England --  Early works to 1800.</term>
+               <term>Pembrokeshire (Wales) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  Confiscations and contributions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159909:1" rendition="simple:additions"/>
+            <p>The Earle of Carberyes <hi>PEDEGREE:</hi> WITH <hi>Their Titles, and honourable Endowments.</hi>
+            </p>
+            <p>ALSO, A copie of a Letter, with the Charge and Articles, ſent from the Committee of Pembroke, to the Committee for Compoſitions at Gold-Smiths Hall, againſt the ſaid Earl, and other grand Delinquents of the County of Carmarthen.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>Octob: 3 London.</add> Printed in the Yeer 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="exposition_of_the_machinations_of_the_Earl_of_Carbery">
+            <pb facs="tcp:159909:2"/>
+            <pb n="1" facs="tcp:159909:2"/>
+            <head>The Earl of <hi>Carberery</hi> his Pedigree.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He ſaid Earle was created Baron of Em<g ref="char:EOLhyphen"/>lim at Oxford, and ſate there in the Junto (the better to diſtinguiſh him, becauſe hee hath beene by many taken for the Earl of <hi>Cherbery</hi>) he is nephew to the late <hi>Walter Vaughan, (Plod-all</hi>) brother to Sir <hi>Henry (Act-all,</hi> now priſoner in the Tower for all) brother to the late Sir <hi>John (Counte<g ref="char:EOLhyphen"/>nance-all</hi>) father to the ſaid <hi>Carbery,</hi> and brother to honeſt <hi>Richard (Tell-all</hi>) who hath beene grievouſly perſecuted, impriſoned and plundered by them all, for his affection to the Parliament.</p>
+            <p>And yet for all theſe <hi>alls,</hi> the ſaid Earle is about London, making all the friends he can to get him off of theſe <hi>alls;</hi> it ſeemes they are ſo ſharp, and prick ſo ſore, that hee cannot reſt long in one place; yet hee keeps his brazen face, and brags that hee hath got a pardon for all, and like to bee in as great command as ever he was: which if it ſhould be true (as God for<g ref="char:EOLhyphen"/>bid it ſhould) then woe be to poore Carmarthenſhire, eſpecially thoſe who exhibited theſe Articles to the Committee there; for they are like to pay for all: but I hope the Parliament will be better adviſed, and pre<g ref="char:EOLhyphen"/>vent that, by diſabling him and all his compliances for bearing any office or authority in the Countrey; hee may very well pay a large Compoſition, for hee ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h
+<pb n="2" facs="tcp:159909:3"/> extorted large ſummes of money of the Country ſince theſe Wars began, beſides two or 3000. l. of Ship<g ref="char:EOLhyphen"/>money, and other moneyes which he had of the Countreys in his hands before.</p>
+         </div>
+         <div type="letter">
+            <head>The copie of a Letter from the Committee of Pembroke, to the Committee for Compoſitions at Goldſmiths Hall.</head>
+            <opener>
+               <salute>Honourable,</salute>
+            </opener>
+            <p>SInce our acceſſes into this County of Carmarthen, we finde here an inſolent tyrannicall Gentry, con<g ref="char:EOLhyphen"/>ſiſting of one intolerable trunk, the branches diſper<g ref="char:EOLhyphen"/>ſing over the face of the Countrey, and a ſervile op<g ref="char:EOLhyphen"/>preſſed Commons, holding their fortunes (yea their lives) at will of their Grand Seigniour. Eaſe and li<g ref="char:EOLhyphen"/>berty they would gladly enjoy, but think it capitall to open their mouths, and profeſſe ſo much. Authority we have to miniſter ſome remedy, and fidelity, incli<g ref="char:EOLhyphen"/>nation, and ſpirit enough, to put it in execution. But the brave deſignes and joyfull ſucceſſe of our Major-Generall requiring his whole power in the bordering Counties, leaves us unable to encounter with theſe ſons of <hi>Anak,</hi> their very countenance proclaiming no<g ref="char:EOLhyphen"/>thing but Malignancie and oppoſition. The happy Iſſue of our Major Generals endeavours, the totall reduce<g ref="char:EOLhyphen"/>ment of Cardigan, Radnor and Brecknock ſhieres to King and Parliaments obedience, rounding this Coun<g ref="char:EOLhyphen"/>try with our friends truſty and faithfull, is become the ſecurity to hold us together without danger of life ſo long in this place, though we dare onley receive char<g ref="char:EOLhyphen"/>ges and examine witneſſes againſt principall Malig<g ref="char:EOLhyphen"/>nants,
+<pb n="3" facs="tcp:159909:3"/> and not offer to make aſſay of ſequeſtrations without a ſtrong power to ſecond us. We ſend herein the copy of a Charge brought into us againſt ſome few of them which though it be ſhort &amp; much vented in generals, yet the witneſſes &amp; Records teſtifie parti<g ref="char:EOLhyphen"/>culars ſo horrid as we never imagined could be practi<g ref="char:EOLhyphen"/>ſed by Chriſtians, hence flowed the violent ſtreams of miſery that overwhelmed Pembrokeſhiere, and all the Parliaments friends in this part of Wales, there is no<g ref="char:EOLhyphen"/>thing but abhorring the Nationall Covenant, and a generall deſire of power to revolt.</p>
+            <p>We humbly offer theſe intimations to prevent mi<g ref="char:EOLhyphen"/>ſtakes if any of them ſew for compoſition, and if the deſtroyed County of Pembroke ſhould be deſigned to receive any recovery for ſpoiles, the chiefe agents in the ruine might be deſcried, and be made proportio<g ref="char:EOLhyphen"/>nably ſharers in the repaire, we crave pardon for this our boldneſſe, and devote our ſelves</p>
+            <closer>
+               <dateline>Carmarthen <date>29. Novrm. 1645.</date>
+               </dateline>
+               <signed>Your humble ſervants
+<list>
+                     <item>Tho: Powell.</item>
+                     <item>Sam. Lort.</item>
+                     <item>John Lloyd.</item>
+                     <item>Griff. White.</item>
+                     <item>T. Rowen.</item>
+                     <item>Iohn Lort.</item>
+                     <item>Georg. Will. Griffith.</item>
+                     <item>Iohn Mathins.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="articles_against_the_Earl_of_Carbery">
+            <pb n="4" facs="tcp:159909:4"/>
+            <head>Articles exhibited the 10. day of November 1645. to the right Worſhipful the Committee eſtabliſhed for the King and Parliament within the three Aſſociated Counties of <hi>Pembroke, Carmarthen,</hi> and <hi>Cardigan,</hi> for diſcovery of the malignancy (againſt the authority of Parliament) of <hi>Rich: Earl of Carbery, Rice Rudd</hi> Baronet, <hi>Sir Henry Vaughan, Sir Edward Vaughan,</hi> Knights, <hi>John Vaughan</hi> of Llanely, <hi>Lodowicke Lewis, Hen<g ref="char:EOLhyphen"/>ry Middleton, Tho. Philips,</hi> Eſquires, and <hi>Edward Lloyd</hi> Gent.</head>
+            <p n="1">1. THe ſaid Earle of Carbery was in time of peace a mercileſſe oppreſſor of the Commons with<g ref="char:EOLhyphen"/>in the ſaid Counties, made advantage of the beginning of theſe preſent Wars cheriſhed the troubles to make commoditie thereof, undertook the illegall Commiſ<g ref="char:EOLhyphen"/>ſion of Array, in oppoſition to the Parliament, and ſuppreſſing their friends and adherents, uſurped the command in chiefe and ſole power of thoſe Counties to his own hands, introduced additionall forces out of other parts of the Kingdom to his aſſiſtance, made theſe Counties the conſtant ſeat of war for 3 years paſt, to the utter undoing of the well-affected Inhabitants, and dammage of the Country of 500000. l. at the leaſt, and all the other Delinquents in times both of peace and war have been the principall and conſtant inſtruments for acting the ſaid Earles deſign, diligently ſubſervient to his ambition, and avarice, his abettors in ruining the Country, and proportionable ſharers in the ſpoiles.</p>
+            <p n="2">2. The Delinquents and their faction to diſinable the Country of oppoſition to their purpoſes, did in the
+<pb n="5" facs="tcp:159909:4"/> months of October and November, 1642. diſarme all the Trained Bands of the County of Carmarthen, and poſſeſſed themſelves of all the Arms there in the com<g ref="char:EOLhyphen"/>mon ſtore, with the Trained Bands Arms, amounting in al to 3000. Arms, and raiſed a Regiment of foot ſol<g ref="char:EOLhyphen"/>diers to ſerve in them againſt the Parliament, and in pretence of the Souldiers preſent maintenance, extor<g ref="char:EOLhyphen"/>ted xl. s. a peece at leaſt, of every the Trained Band men, of ſome more, when they were ſtripped of their Armes, amounting to 2000. and above, the like courſe they held as far as they could prevaile in the other two Counties.</p>
+            <p n="3">3. For further exhauſting the wealth of the Coun<g ref="char:EOLhyphen"/>try to convert to their own private commodity, the Delinquents in January following, pact a Grand Jury of men, obſervant of their countenances, and of ſpeci<g ref="char:EOLhyphen"/>all relation and dependancy upon the ſaid Earle and Baronet <hi>Rudd,</hi> to ſerve in the quarter Seſſions then hol<g ref="char:EOLhyphen"/>den in Carmarthen ſhiere, and prepared a preſentment and had it ingroſſed before hand, to ſerve their turne for raiſing money and ſuppreſſing the Parliaments friends, and overawed the Jury to deliver the ſame to the Court without oath or any examination or evi<g ref="char:EOLhyphen"/>dence, as the act of the Jurors upon their oathes that preſentment, deſigned 2600. I. of the Countries mo<g ref="char:EOLhyphen"/>ny to be ſequeſtred to the Earle of Carbery.</p>
+            <p n="4">4. In levying that unjuſt impoſition by the Earle and ſome others of the Delinquents warrants upon pretence that <hi>Walter Grundy,</hi> perſons known to affect the Parliament, and thereby come to be the object of the Delinquents fury, withſtood the paiment of about 9. ſh. impoſed upon <hi>Hugh Grundy</hi> their father; the ſaid
+<pb n="6" facs="tcp:159909:5"/> 
+               <hi>Thomas Philips, Edward Lloyd,</hi> with one hundred other perſons in their company the 25. of June, 1643. be<g ref="char:EOLhyphen"/>ing the Lords day in the morning, forced an entrance into the houſe, murthered <hi>Walter,</hi> dangerouſly woun<g ref="char:EOLhyphen"/>ded <hi>Ralph,</hi> carried him priſoner to Carmarthen, indi<g ref="char:EOLhyphen"/>cted, arraigned and condemned him of high Treaſon at the great Seſſions in Auguſt following, the houſe plundered to the value of 200. I. and <hi>Mary Grundy</hi> their ſiſter in houſe with them impriſoned, and <hi>Thomas Phi<g ref="char:EOLhyphen"/>lips</hi> by warrant of the Delinquents immediate after the preſentment, and by colour thereof ſeized the reall e<g ref="char:EOLhyphen"/>ſtate of 100. l. value per annum, and perſonall eſtate of 500. l. of <hi>Evan Thomas</hi> mentioned by the preſentment to be ill-affected to the then government of the Coun<g ref="char:EOLhyphen"/>try, and made ſtrict ſearch for his body to have murde<g ref="char:EOLhyphen"/>red or proceeded againſt him as a Traitor, but that hee eſcaped by flight to the Parliaments forces in Pem<g ref="char:EOLhyphen"/>brookeſhire.</p>
+            <p>The ſaid Earle by the advice of the other Delinquents conſtantly ſince the increaſe of the troubles, procures perſons ſervilly obſequious to his commands, be they never ſo inhumane, to authorize Sheriffs and other of<g ref="char:EOLhyphen"/>ficers in Carmarthenſhiere, for better eſtabliſhing and ſupport of his tyrannie and ſupplement of meanes to feed the profuſeneſſe and luxury of all the Delin<g ref="char:EOLhyphen"/>quents, by undoing of ſome, and expoſing of many hundreds of innocent perſons to periſh for want of food.</p>
+            <p>Praying the perſons of the Delinquents may be ſecured to receive their triall by Parliament, the injuried by them re<g ref="char:EOLhyphen"/>compenſed out of their eſtates, and the reſidue ſequeſte<g ref="char:EOLhyphen"/>red according to Ordinance of Parliament.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
